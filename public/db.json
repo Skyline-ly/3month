@@ -1,0 +1,1387 @@
+{
+  "products": [
+    {
+      "id": 6,
+      "name": "Denim Trucker Jacket",
+      "price": 59.99,
+      "gender": "men",
+      "category": "jackets",
+      "newArrival": true,
+      "onTrain": true,
+      "sizes": ["M", "L", "XL", "XXL"],
+      "inStock": true,
+      "variants": [
+        {
+          "color": "blue",
+          "hex": "#4A6B82",
+          "image": "https://www.snakeoilprovisions.com/cdn/shop/files/DSCF5517_1800x.jpg?v=1758229433"
+        },
+        {
+          "color": "dark-wash",
+          "hex": "#1E293B",
+          "image": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Men-DenimTruckerJacket-MediumWash-100925-1_7f0f223a-da0b-4a0c-9cdf-8ccbefc3dc05.jpg?v=1760642575"
+        }
+      ],
+      "details": {
+        "longDescription": "A timeless classic that only gets better with age. Crafted from heavy-duty denim, this trucker jacket features a button front closure, traditional welt pockets, and adjustable waist tabs for a perfectly tailored fit.",
+        "features": [
+          "100% rigid cotton denim",
+          "Standard collar with full button-down placket",
+          "Two button-flap chest pockets",
+          "Adjustable side button tabs at waist"
+        ],
+        "fabricAndCare": "100% Cotton. Machine wash cold inside out with like colors. Tumble dry medium.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 7,
+      "name": "High-Waisted Leggings",
+      "price": 22.0,
+      "gender": "women",
+      "category": "pants",
+      "newArrival": true,
+      "onTrain": true,
+      "sizes": ["XS", "S", "M", "L"],
+      "inStock": true,
+      "variants": [
+        {
+          "color": "black",
+          "hex": "#000000",
+          "image": "https://contents.mediadecathlon.com/p2731555/k$929f82b2ce4b7f04cd0f430ae2381205/women-s-high-waisted-cardio-fitness-leggings-smoky-black-domyos-8643703.jpg"
+        },
+        {
+          "color": "navy",
+          "hex": "#001F3F",
+          "image": "https://www.rudis.com/cdn/shop/files/RUDLG1000-RUDIS-Womens-High-Waisted-Leggings-OFP__Navy_0002.jpg?v=1762283895"
+        },
+        {
+          "color": "olive",
+          "hex": "#556B2F",
+          "image": "https://wearesaisei.com/cdn/shop/files/SW25PF2490_PERFORMANCE_HIGH_RISE_LEGGINGS_OLIVE_SEAMLESS_OM_01.jpg?v=1751804063&width=1200"
+        }
+      ],
+      "details": {
+        "longDescription": "Engineered for maximum flexibility and buttery-soft comfort. These high-waisted leggings provide a supportive compression fit that stays put through yoga sessions, errands, or heavy gym workouts.",
+        "features": [
+          "Ultra-soft 4-way stretch fabric",
+          "4-inch waistband for ultimate tummy support",
+          "Moisture-wicking and quick-drying",
+          "Hidden waistband pocket for keys or cards"
+        ],
+        "fabricAndCare": "78% Nylon, 22% Spandex. Machine wash cold, gentle cycle. Air dry recommended to maintain elasticity.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 8,
+      "name": "Graphic Streetwear Tee",
+      "price": 18.5,
+      "gender": "unisex",
+      "category": "tshirts",
+      "newArrival": false,
+      "onTrain": true,
+      "sizes": ["S", "M", "L", "XL"],
+      "inStock": true,
+      "variants": [
+        {
+          "color": "black",
+          "hex": "#1A1A1A",
+          "image": "https://www.altart.in/cdn/shop/files/ArtistQuoteOversizedt-ShirtForMenModel4.png?v=1755527146"
+        },
+        {
+          "color": "white",
+          "hex": "#FFFFFF",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9cAlplFutMOi7OifY_eTFvAPSoiPAK82Egg&s"
+        },
+        {
+          "color": "acid-wash",
+          "hex": "#708090",
+          "image": "https://snipesmenswear.com/cdn/shop/files/1778763527504.png?v=1779189252&width=3840"
+        }
+      ],
+      "details": {
+        "longDescription": "Make a statement with this oversized streetwear staple. Featuring an edgy, screen-printed graphic on premium heavy-knit cotton, this tee offers a relaxed aesthetic with durable street-ready quality.",
+        "features": [
+          "Oversized, boxy silhouette",
+          "Ribbed crewneck collar",
+          "Heavyweight premium combed cotton",
+          "High-density graphic print on chest"
+        ],
+        "fabricAndCare": "100% Premium Cotton. Machine wash cold inside out. Hang dry to prevent graphic cracking.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 9,
+      "name": "Leather Biker Jacket",
+      "price": 89.99,
+      "gender": "men",
+      "category": "jackets",
+      "newArrival": false,
+      "onTrain": true,
+      "sizes": ["S", "M", "L"],
+      "inStock": false,
+      "variants": [
+        {
+          "color": "black",
+          "hex": "#111111",
+          "image": "https://www.thejacketmaker.it/cdn/shop/files/Mens-Legacy-Black-Leather-Biker-Jacket_1_905b5523-3a11-4dc5-9865-ad6ddf81d310.jpg?v=1760635138"
+        },
+        {
+          "color": "brown",
+          "hex": "#5C4033",
+          "image": "https://www.thejacketmaker.com/cdn/shop/files/Men_s_Lavendard_Brown_Leather_Biker_Jacket-2_746fba86-1fbc-43f9-a9d5-1e400876d80d.jpg?v=1760635123"
+        }
+      ],
+      "details": {
+        "longDescription": "Channel effortless cool with our premium faux-leather biker jacket. Designed with classic asymmetrical zip detailing and structured shoulder stitching, it's the perfect edgy top layer for any outfit.",
+        "features": [
+          "Premium vegan faux-leather with matte finish",
+          "Asymmetrical front zipper closure",
+          "Zippered side pockets and cuffs",
+          "Fully lined interior"
+        ],
+        "fabricAndCare": "Shell: 100% Polyurethane. Lining: 100% Polyester. Do not wash. Wipe clean with a damp cloth.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 10,
+      "name": "Cargo Joggers",
+      "price": 34.99,
+      "gender": "men",
+      "category": "pants",
+      "newArrival": true,
+      "onTrain": false,
+      "sizes": ["30", "32", "34", "36"],
+      "inStock": true,
+      "variants": [
+        {
+          "color": "khaki",
+          "hex": "#C3B091",
+          "image": "https://www.lmonteinternational.com/cdn/shop/files/22_7bba5d2c-6176-4db0-9e4c-9d782e7e27de.jpg?v=1750160325"
+        },
+        {
+          "color": "black",
+          "hex": "#222222",
+          "image": "https://cdn.shopify.com/s/files/1/0098/8822/files/CrestCargoJoggerGSBlackA5A8Y-BB2J-0460_c3649490-a726-4ef5-958d-40b61e54420b.jpg?v=1708450045"
+        },
+        {
+          "color": "camo",
+          "hex": "#4B5320",
+          "image": "https://i.ebayimg.com/images/g/D98AAOSwAtpgBAA2/s-l1200.jpg"
+        }
+      ],
+      "details": {
+        "longDescription": "Utility meets modern comfort. These cargo joggers are constructed from durable stretch-twill canvas, offering a streamlined tapered fit alongside functional, spacious cargo pockets.",
+        "features": [
+          "Tapered leg with elasticized ankle cuffs",
+          "Elastic waistband with adjustable drawcord",
+          "Two side cargo pockets with snap closures",
+          "Deep front slash pockets"
+        ],
+        "fabricAndCare": "98% Cotton, 2% Elastane. Machine wash cold with like colors. Tumble dry low.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 11,
+      "name": "A-Line Mini Skirt",
+      "price": 19.99,
+      "gender": "women",
+      "category": "skirts",
+      "sizes": ["XS", "S", "M", "L"],
+      "inStock": true,
+      "variants": [
+        {
+          "color": "plaid",
+          "hex": "#8B0000",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqu5QN36l7FK-eyW6iCYHvheXUP_8bkLgcPK49GUAwdZJ6Ry1A-9GSkg&s=10"
+        },
+        {
+          "color": "black",
+          "hex": "#1C1C1C",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOjJzpCRPDQIQZwcrcPO-Vh1e4PgqkLOXg5ujJC7W0nbMOI6R2RhwDxZbr&s=10"
+        }
+      ],
+      "details": {
+        "longDescription": "Flattering and versatile, this structured mini skirt cuts a perfect A-line silhouette. Pair it with boots and a sweater for a chic cool-weather look, or style it down with your favorite sneakers.",
+        "features": [
+          "High-waisted, structured dynamic fit",
+          "Concealed side zipper closure",
+          "Lightweight, non-stretch twill fabric",
+          "Mid-thigh length cut"
+        ],
+        "fabricAndCare": "65% Polyester, 35% Rayon. Hand wash cold or dry clean. Low iron if needed.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 12,
+      "name": "Chino Shorts",
+      "price": 24.99,
+      "gender": "men",
+      "category": "shorts",
+      "sizes": ["30", "32", "34", "38"],
+      "newArrival": true,
+      "inStock": true,
+      "variants": [
+        {
+          "color": "beige",
+          "hex": "#F5F5DC",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgJQeT7cx6XQICz211YZwm5DYfzzWd79zH9i8AbnHfxxe9Y5QUK7TRxQg&s=10"
+        },
+        {
+          "color": "navy",
+          "hex": "#121929",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2XbEwmayhtNndzR4o_xbIOKZ6bfL8w3fazfd2EupuaVeMx68TWSR1mgA&s=10"
+        },
+        {
+          "color": "salmon",
+          "hex": "#FA8072",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQKKNCd394Z4gSEbMUzagKPNE5j3lRwncG99VhMb2pfA&s"
+        }
+      ],
+      "details": {
+        "longDescription": "The quintessential warm-weather staple. Our chino shorts are tailored with a classic 9-inch inseam and crafted from lightweight stretch cotton for comfort during long summer days.",
+        "features": [
+          "9-inch casual inseam",
+          "Button-through front closure with zip fly",
+          "Two front slash pockets and two rear welt pockets",
+          "Belt loops fit up to 2-inch belts"
+        ],
+        "fabricAndCare": "97% Cotton, 3% Spandex. Machine wash warm. Tumble dry medium.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 13,
+      "name": "Cozy Knit Sweater",
+      "price": 38.0,
+      "gender": "women",
+      "category": "sweaters",
+      "sizes": ["S", "M", "L", "XL"],
+      "newArrival": false,
+      "inStock": true,
+      "variants": [
+        {
+          "color": "cream",
+          "hex": "#FFFDD0",
+          "image": "https://www.fashionchingu.com/wp-content/uploads/2024/12/Cozy-Knit-Sweater-In-Cream-Diamond_0.jpg"
+        },
+        {
+          "color": "mustard",
+          "hex": "#E1AD01",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81CvrKUWLmwSkCKyiDGvYvfjSDTcSkc-KzzZBipFPEw&s"
+        },
+        {
+          "color": "sage",
+          "hex": "#9C9F84",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRxpOf53KCY5q8hcxmtvnK1UmYp_szruuzNYYz2584Wq1-NNzJGgQHpH5f&s=10"
+        }
+      ],
+      "details": {
+        "longDescription": "Wrap yourself in luxury comfort. This sweater features a relaxed, slightly oversized knit profile with beautifully dropped shoulders, making it your new go-to cozy companion.",
+        "features": [
+          "Heavyweight, plush knit blend",
+          "Rib-knit detailing at collar, cuffs, and hem",
+          "Drop-shoulder relaxed sleeve silhouette",
+          "Crewneck collar cut"
+        ],
+        "fabricAndCare": "50% Acrylic, 30% Nylon, 20% Polyester. Hand wash cold. Lay flat to dry.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 14,
+      "name": "Running Sports Shoes",
+      "price": 65.0,
+      "gender": "men",
+      "category": "shoes",
+      "sizes": ["40", "41", "42", "43", "44"],
+      "newArrival": true,
+      "inStock": true,
+      "variants": [
+        {
+          "color": "black",
+          "hex": "#111111",
+          "image": "https://redtape.com/cdn/shop/files/OZC0309_1.jpg?v=1768196035"
+        },
+        {
+          "color": "grey-neon",
+          "hex": "#5A5A5A",
+          "image": "https://m.media-amazon.com/images/I/51a9DdGR6tL._AC_UY1000_.jpg"
+        }
+      ],
+      "details": {
+        "longDescription": "Crush your personal fitness goals with advanced responsiveness. Built with lightweight, breathable knit mesh and a highly cushioned shock-absorbing midsole for optimal comfort on every run.",
+        "features": [
+          "Engineered mesh upper for cool airflow",
+          "Shock-absorbing EVA foam midsole",
+          "High-traction rubber outsole tread pattern",
+          "Removable cushioned sockliner"
+        ],
+        "fabricAndCare": "Textile upper, Rubber sole. Spot clean with warm water and mild detergent.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 15,
+      "name": "V-Neck Linen Dress",
+      "price": 42.5,
+      "gender": "women",
+      "category": "dresses",
+      "sizes": ["S", "M", "L"],
+      "inStock": false,
+      "variants": [
+        {
+          "color": "white",
+          "hex": "#FAFAFA",
+          "image": "https://yogajeans.ca/cdn/shop/files/2785_Luna_Midi_Linen_Dress_White_00.jpg?v=1769628669"
+        },
+        {
+          "color": "olive-green",
+          "hex": "#3B4D36",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlr6JDayOzebBhIVWjIw5yhLuydymYvgn_bRUU9UHVelqvlPNx23yZX914&s=10"
+        }
+      ],
+      "details": {
+        "longDescription": "Effortlessly breezy, this linen dress is perfect for sun-drenched afternoons. Tailored with a deep V-neck and an adjustable waist-tie accent to balance comfort with an hourglass shape.",
+        "features": [
+          "Breathable linen-cotton blended woven fabric",
+          "Elegant V-neckline profile",
+          "Adjustable self-tie fabric waist belt",
+          "Side slit accents at the hem"
+        ],
+        "fabricAndCare": "55% Linen, 45% Cotton. Machine wash cold, line dry. Iron on warm setting if needed.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 16,
+      "name": "Zip-Up Fleece Hoodie",
+      "price": 29.99,
+      "gender": "unisex",
+      "category": "hoodies",
+      "sizes": ["M", "L", "XL"],
+      "newArrival": false,
+      "inStock": true,
+      "variants": [
+        {
+          "color": "charcoal",
+          "hex": "#36454F",
+          "image": "https://m.media-amazon.com/images/I/71ReXn2FVVL._AC_UY1000_.jpg"
+        },
+        {
+          "color": "navy",
+          "hex": "#1B263B",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMsdS-gM21K0-WYl6TxgAlGp6oBG_u9dgIBJy1-fpBZlRr99Yogq-TaZ7D&s=10"
+        }
+      ],
+      "details": {
+        "longDescription": "The perfect everyday dynamic layer. This zip-up features an incredibly soft brushed fleece interior, adjustable drawcord hood, and double front pouch pockets for keeping hands warm.",
+        "features": [
+          "Brushed ultra-fleece interior lining",
+          "Full-length metal zipper front",
+          "Double split kangaroo pouch pockets",
+          "Ribbed knit cuffs and hem"
+        ],
+        "fabricAndCare": "60% Cotton, 40% Polyester. Machine wash cold inside out. Tumble dry low.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 17,
+      "name": "Puffer Winter Coat",
+      "price": 95.0,
+      "gender": "men",
+      "category": "jackets",
+      "sizes": ["M", "L", "XL", "XXL"],
+      "inStock": true,
+      "newArrival": true,
+      "variants": [
+        {
+          "color": "black",
+          "hex": "#0D0D0D",
+          "image": "https://www.titus-shop.com/cdn/shop/files/actions_d52525da-8136-4298-82dc-8c2a74169362.jpg?v=1756209067&width=1500"
+        },
+        {
+          "color": "red",
+          "hex": "#C41E3A",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq9dpxEjPCzfzH1Wxb1A8QiInoAz5I-sLyystSZXC8pdADC_YYvkKH0J0&s=10"
+        }
+      ],
+      "details": {
+        "longDescription": "Take on freezing weather with premium insulated warmth. This winter coat features high-loft insulation filling, a wind-resistant nylon shell, and an insulated removable hood.",
+        "features": [
+          "Windproof and water-resistant outer nylon shell",
+          "High-loft warm synthetic down insulation",
+          "Detachable zippered hood with high neck snap guard",
+          "Internal zippered chest pocket"
+        ],
+        "fabricAndCare": "Shell and Lining: 100% Nylon. Fill: 100% Polyester. Machine wash cold, gentle cycle. Tumble dry low with clean tennis balls to restore fluff.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 18,
+      "name": "Striped Crop Top",
+      "price": 14.99,
+      "gender": "women",
+      "category": "tshirts",
+      "sizes": ["XS", "S", "M"],
+      "inStock": true,
+      "newArrival": false,
+      "variants": [
+        {
+          "color": "blue-white",
+          "hex": "#4682B4",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQCL5RRzjhtEz1NdF11z7ZUzbuxguRbU7D8Dr7ICZUzPJPG1XroioU9uP5&s=10"
+        },
+        {
+          "color": "black-white",
+          "hex": "#2B2B2B",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXj9gjeayA3Lc3LwpgxfbuARYIi5qB67X6gleGdBVyGt9a97fPT2-LCc3T&s=10"
+        }
+      ],
+      "details": {
+        "longDescription": "A playful, retro-inspired casual staple. This crop top offers a supportive slim fit and classic horizontal stripes, crafted from an incredibly soft rib-knit cotton blend.",
+        "features": [
+          "Slim fit cropped hem silhouette",
+          "Textured soft rib-knit pattern",
+          "Classic crewneck neckline",
+          "Breathable stretch cotton blend knit"
+        ],
+        "fabricAndCare": "95% Cotton, 5% Elastane. Machine wash cold. Tumble dry low.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 19,
+      "name": "Classic Leather Loafers",
+      "price": 75.0,
+      "gender": "men",
+      "category": "shoes",
+      "sizes": ["41", "42", "43", "44"],
+      "inStock": true,
+      "newArrival": true,
+      "variants": [
+        {
+          "color": "brown",
+          "hex": "#654321",
+          "image": "https://holloshoe.com/cdn/shop/files/Classic_Brown_Leather_Tassel_Loafers_for_Versatile_Style.jpg?v=1754920974&width=1445"
+        },
+        {
+          "color": "black",
+          "hex": "#151515",
+          "image": "https://i.ebayimg.com/images/g/roEAAOSwzt9lt1L~/s-l400.jpg"
+        }
+      ],
+      "details": {
+        "longDescription": "Refine your formal or smart-casual wardrobe. Crafted from rich genuine leather, these slip-on loafers feature traditional penny slots and a padded leather footbed for all-day comfort.",
+        "features": [
+          "100% premium genuine leather upper",
+          "Classic penny loafer moc-toe design",
+          "Padded leather footbed with arch support",
+          "Durable stacked rubber dress heel"
+        ],
+        "fabricAndCare": "Genuine Leather upper. Wipe clean with leather cleaner and apply matching shoe polish regularly.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 20,
+      "name": "Pleated Midi Skirt",
+      "price": 27.5,
+      "gender": "women",
+      "category": "skirts",
+      "sizes": ["S", "M", "L"],
+      "inStock": true,
+      "newArrival": false,
+      "variants": [
+        {
+          "color": "emerald",
+          "hex": "#046307",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRTZhJ1Mt2QMVivW0w0tqzD0DDXIbEEmaonfxceqDcgRe4HaH0OagbT0s&s=10"
+        },
+        {
+          "color": "blush",
+          "hex": "#DE5D83",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv2tpCgB2bGGG4BzeaBb9wC6aD5X8EuOEsm5xxpSEoRCPpZyTr4VNNuOzh&s=10"
+        },
+        {
+          "color": "black",
+          "hex": "#1E1E1E",
+          "image": "https://www.uniqlo.com/au/en/products/E479916-000/00"
+        }
+      ],
+      "details": {
+        "longDescription": "Elegant movement captured in accordion pleats. This midi skirt falls gracefully past the knees and features a comfortable elastic waistband, giving you dynamic dressy movement.",
+        "features": [
+          "Flowing accordion-pleated knit profile",
+          "Comfortable stretch elastic waistband",
+          "Chic mid-calf length hemline",
+          "Fully lined lightweight fabric"
+        ],
+        "fabricAndCare": "100% Polyester. Hand wash cold or place in a mesh laundry bag on delicate cycle. Hang to dry.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 21,
+      "name": "Flannel Button-Down",
+      "price": 26.0,
+      "gender": "men",
+      "category": "shirts",
+      "sizes": ["S", "M", "L", "XL"],
+      "inStock": true,
+      "newArrival": true,
+      "variants": [
+        {
+          "color": "red-black",
+          "hex": "#800020",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7r-nXVa4iDmtT8Vczy9fRzkS9SiC_rRRfHLxtYsO5IlDcRTogdQIQo8&s=10"
+        },
+        {
+          "color": "green-black",
+          "hex": "#2F4F4F",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXIpKHzf9_Ff8LLRwvk37Ha2gVO2k6YV1r-qj8goDMTKuZnxEHpsOtwsx&s=10"
+        }
+      ],
+      "details": {
+        "longDescription": "The perfect layering piece for cool weather. This unisex flannel button-down is crafted from heavy brushed cotton for ultimate warmth, featuring a timeless plaid print and dual utility chest pockets.",
+        "features": [
+          "Soft brushed heavyweight cotton flannel",
+          "Button-front closure with buttoning cuffs",
+          "Two chest button-flap pockets",
+          "Relaxed straight hemline fit"
+        ],
+        "fabricAndCare": "100% Cotton. Machine wash cold with like colors. Tumble dry low.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 22,
+      "name": "Distressed Denim Shorts",
+      "price": 22.99,
+      "gender": "women",
+      "category": "shorts",
+      "sizes": ["26", "28", "30", "32"],
+      "inStock": true,
+      "newArrival": false,
+      "variants": [
+        {
+          "color": "light-blue",
+          "hex": "#ADD8E6",
+          "image": "https://lahaute.com.au/cdn/shop/files/LAHAUTE_FEB_39560-2.jpg?v=1740976042&width=2299"
+        }
+      ],
+      "details": {
+        "longDescription": "Edgy and relaxed, these high-rise denim shorts feature custom shredding details and raw, frayed step-hems for a worn-in, effortless festival-ready look.",
+        "features": [
+          "High-rise waist fit with zip fly",
+          "Hand-processed distressing accents",
+          "Raw frayed cutoff hemline design",
+          "Classic 5-pocket utility layout"
+        ],
+        "fabricAndCare": "99% Cotton, 1% Elastane. Machine wash cold inside out. Tumble dry medium.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 23,
+      "name": "Oxford Cotton Shirt",
+      "price": 32.5,
+      "gender": "men",
+      "category": "shirts",
+      "sizes": ["M", "L", "XL"],
+      "inStock": false,
+      "newArrival": true,
+      "variants": [
+        {
+          "color": "light-blue",
+          "hex": "#B0C4DE",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeZ8nvVW1kNj_UXNiDnB7UGWMmGIYL6j2FwvFqUidtEJsxQ0DQxKVJizma&s=10"
+        },
+        {
+          "color": "white",
+          "hex": "#FFFFFF",
+          "image": "https://cdn.shopify.com/s/files/1/0207/9406/files/02_Cotton_Oxford_White_Model_Front_8daf81a4-6d02-4ecd-815e-f82c0f89c37c.jpg?v=1745932223&width=600"
+        }
+      ],
+      "details": {
+        "longDescription": "A cornerstone of smart tailoring. This Oxford shirt is woven from heavy, breathable cotton with a traditional basketweave structure, featuring a sharp button-down collar.",
+        "features": [
+          "Durable heavy premium basketweave cotton",
+          "Classic button-down collar profile",
+          "Single open chest utility pocket",
+          "Adjustable double-button cuffs"
+        ],
+        "fabricAndCare": "100% Cotton. Machine wash warm. Warm iron if required.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 24,
+      "name": "Tie-Dye Lounge Set",
+      "price": 39.99,
+      "gender": "women",
+      "category": "hoodies",
+      "sizes": ["S", "M", "L"],
+      "newArrival": false,
+      "inStock": true,
+      "variants": [
+        {
+          "color": "pastel-blue",
+          "hex": "#AEC6CF",
+          "image": "https://i5.walmartimages.com/asr/ce411e6e-5c8e-4f47-b0f2-1ba8de4a70a6.c726d35605e4dc0f4c13e2f8bab7dcdf.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+        },
+        {
+          "color": "purple-haze",
+          "hex": "#E0B0FF",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9L_IfE3RhsjSZKL46t8kxi9scjsPhtikLLHp5tSO852SHIuUSHlgM5iUI&s=10"
+        }
+      ],
+      "details": {
+        "longDescription": "Elevate your off-duty loungewear aesthetic. This premium two-piece matching set features a custom tie-dye pattern on soft French terry loop cotton, including a relaxed crewneck pullover and matching shorts.",
+        "features": [
+          "Includes pullover sweatshirt and matching elastic shorts",
+          "Custom unique tie-dye patterning",
+          "Ultra-soft premium loop French terry cotton",
+          "Functional side seam shorts pockets"
+        ],
+        "fabricAndCare": "80% Cotton, 20% Polyester. Machine wash cold separately to prevent dye transfer. Tumble dry low.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 25,
+      "name": "Canvas High-Top Sneakers",
+      "price": 49.99,
+      "gender": "women",
+      "category": "shoes",
+      "sizes": ["37", "38", "39", "40", "41", "42"],
+      "inStock": true,
+      "newArrival": true,
+      "variants": [
+        {
+          "color": "black",
+          "hex": "#1A1A1A",
+          "image": "https://dqaecz4y0qq82.cloudfront.net/products/wl9381.jpg?format=webp&preset=zoom&404=y"
+        },
+        {
+          "color": "white",
+          "hex": "#F9F9F9",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVASi9TQ-9nfR7DWMR5voziGfaQlS6g8v3_68XZUj2IJi9YcnsbMvJeSM&s=10"
+        },
+        {
+          "color": "red",
+          "hex": "#D2143A",
+          "image": "https://m.media-amazon.com/images/I/81ygN5FW-3L._AC_UY900_.jpg"
+        }
+      ],
+      "details": {
+        "longDescription": "The quintessential vintage silhouette. These casual high-top canvas sneakers are finished with a protective rubber toe cap and a vulcanized rubber waffle outsole for iconic grip.",
+        "features": [
+          "Heavy-duty 12oz woven canvas upper",
+          "Classic lace-up high-top construction",
+          "Protective rubber toe cap detailing",
+          "Vulcanized rubber waffle outsole tread"
+        ],
+        "fabricAndCare": "Canvas upper, Rubber sole. Hand clean with soft brush and soapy water. Air dry away from direct sunlight.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 26,
+      "name": "Ankle Formal Trousers",
+      "price": 36.0,
+      "gender": "women",
+      "category": "pants",
+      "sizes": ["34", "36", "38", "40"],
+      "newArrival": false,
+      "inStock": true,
+      "variants": [
+        {
+          "color": "grey",
+          "hex": "#808080",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJs8KJCmyBz93y-xPRk2RrYfql-QpXEpP8397K8d6YI0SmSAL-iWZlQ968&s=10"
+        },
+        {
+          "color": "black",
+          "hex": "#111111",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNBNaAWx8_YjJP9yLCYxc93L4NvjUraAOeBWxw6dgeAClEHWfKDQlaaNA&s=10"
+        }
+      ],
+      "details": {
+        "longDescription": "Sophisticated tailoring designed for the modern workplace. These slim-fit formal trousers feature a sleek ankle-grazing crop, pressed front creases, and functional sleek side pockets.",
+        "features": [
+          "Slim fit silhouette with an ankle-length cropped hem",
+          "High-waist tab closure with zip fly fastening",
+          "Sharply pressed front crease design lines",
+          "Functional front slash side pockets"
+        ],
+        "fabricAndCare": "70% Polyester, 25% Rayon, 5% Spandex. Machine wash cold on gentle cycle. Hang dry or dry clean.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 27,
+      "name": "Polo Collar Shirt",
+      "price": 21.99,
+      "gender": "men",
+      "category": "tshirts",
+      "sizes": ["M", "L", "XL", "XXL"],
+      "newArrival": true,
+      "inStock": true,
+      "variants": [
+        {
+          "color": "navy",
+          "hex": "#002040",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAi4RXO6ubS8dE3nZh7hrjlyqYGhj0gJ0PnM388gR52kDucU2tjTLfy9I&s=10"
+        },
+        {
+          "color": "white",
+          "hex": "#FFFFFF",
+          "image": "https://i5.walmartimages.com/seo/Basico-White-Polo-Collared-Shirts-For-Men-100-Cotton-Short-Sleeve-Golf-Polo-Shirts_0fea0525-24c2-46f3-acce-f7823acf3966_1.8b932c9edf4932bac019aae737ec21bb.jpeg"
+        },
+        {
+          "color": "burgundy",
+          "hex": "#4A0404",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSkAPX3GH1nODvFrcPxhM0unD_9JaOXSY22-HYwLwnUCuk-s_BfbOSVFf&s=10"
+        }
+      ],
+      "details": {
+        "longDescription": "The perfect balance of athletic performance and preppy style. Woven in fine cotton pique mesh, this polo shirt features classic ribbed collar styling and split-side hem vents.",
+        "features": [
+          "Breathable premium cotton pique mesh knit",
+          "Ribbed knit polo collar with a 3-button placket",
+          "Short sleeves with knit ribbed cuffs",
+          "Side-slit vent step-hems"
+        ],
+        "fabricAndCare": "100% Pique Cotton. Machine wash warm with like colors. Tumble dry medium.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 28,
+      "name": "Satin Evening Gown",
+      "price": 110.0,
+      "gender": "women",
+      "category": "dresses",
+      "sizes": ["XS", "S", "M", "L"],
+    
+      "newArrival": false,
+      "inStock": true,
+      "variants": [
+        {
+          "color": "emerald",
+          "hex": "#004B23",
+          "image": "https://www.onehoneyboutique.com/cdn/shop/products/TE720-4.jpg?v=1765190047&width=2048"
+        },
+        {
+          "color": "champagne",
+          "hex": "#F7E7CE",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnYx6oISj_tt8xBn-cfc2sXNYmYMrDkDKUntDmF3OdYw&s=10"
+        }
+      ],
+      "details": {
+        "longDescription": "Command the room at your next special event. This luxurious satin evening gown drapes fluidly along the body, featuring elegant adjustable cowl detailing and a stunning thigh-high side slit cut.",
+        "features": [
+          "High-luster ultra-premium liquid satin fabric",
+          "Draped elegant cowl neckline cut",
+          "Thigh-high dramatic left leg slit",
+          "Concealed hidden side-zipper fastening"
+        ],
+        "fabricAndCare": "100% Satin Polyester. Dry clean only. Iron inside out on ultra-low setting.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 29,
+      "name": "Athletic Sweatshorts",
+      "price": 17.99,
+      "gender": "men",
+      "category": "shorts",
+      "sizes": ["S", "M", "L", "XL"],
+      "newArrival": true,
+      "inStock": true,
+      "variants": [
+        {
+          "color": "heather-grey",
+          "hex": "#94A3B8",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqST_2iT-ghVTT5L4TYx6zwfOie60tywnhWrupuujSUwgpDDUZjFS0VdA&s=10"
+        },
+        {
+          "color": "black",
+          "hex": "#1C1917",
+          "image": "https://peacefulhooligan.co.uk/cdn/shop/files/PHAW26_Athletic_Shorts_Black_1.jpg?v=1777047151&width=2048"
+        }
+      ],
+      "details": {
+        "longDescription": "Engineered for rest days and low-impact gym sessions. These lightweight French terry sweatshorts feature an adjustable elastic waistband and raw-edge dynamic style detailing.",
+        "features": [
+          "Comfortable unbrushed loop French terry",
+          "Elastic stretch waistband with thick cotton drawcord",
+          "Two side jersey-lined pockets and one back pocket",
+          "Relaxed comfortable casual fit through the thigh"
+        ],
+        "fabricAndCare": "80% Cotton, 20% Polyester. Machine wash cold. Tumble dry low.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 30,
+      "name": "Turtleneck Bodysuit",
+      "price": 19.5,
+      "gender": "women",
+      "category": "tshirts",
+      "sizes": ["XS", "S", "M"],
+      "newArrival": false,
+      "inStock": false,
+      "variants": [
+        {
+          "color": "black",
+          "hex": "#1F1F1F",
+          "image": "https://m.media-amazon.com/images/I/71vZjxFuoQL._AC_UY1000_.jpg"
+        },
+        {
+          "color": "burgundy",
+          "hex": "#6B1D2F",
+          "image": "https://images.asos-media.com/products/asos-design-long-sleeve-bodysuit-with-turtle-neck-in-burgundy/205181491-1-burgundy?$n_640w$&wid=513&fit=constrain"
+        }
+      ],
+      "details": {
+        "longDescription": "Say goodbye to bulky tucking. This sleek turtleneck bodysuit provides a seamless, ultra-smooth foundation layer that pairs perfectly under tailored blazers or high-waisted denim jeans.",
+        "features": [
+          "Ultra-stretch fine micro-rib knit fabric",
+          "Chic formal turtleneck collar styling",
+          "Secure snap-button bottom closure design",
+          "Thong-cut rear profile for zero panty lines"
+        ],
+        "fabricAndCare": "92% Rayon, 8% Spandex. Machine wash cold in delicate bag. Line dry.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 31,
+      "name": "Windbreaker Jacket",
+      "price": 45.0,
+      "gender": "men",
+      "category": "jackets",
+      "sizes": ["S", "M", "L", "XL"],
+      "newArrival": true,
+      "inStock": true,
+      "variants": [
+        {
+          "color": "neon-green",
+          "hex": "#39FF14",
+          "image": "https://www.macinasac.com/cdn/shop/products/MIAS-NeonGreen_10_04f68d5c-0a91-4603-8e38-e11c1dcecd7f.jpg?v=1741954245&width=1445"
+        },
+        {
+          "color": "black",
+          "hex": "#1A202C",
+          "image": "https://www.militarykit.com/cdn/shop/files/brandit-black-windbreaker-jacket-front-chest-pocket.jpg?v=1722348856&width=1200"
+        }
+      ],
+      "details": {
+        "longDescription": "Don't let elements get in your way. This lightweight windbreaker features dynamic water-repellent ripstop tracking, a toggle-adjustable scuba hood, and elastic bound wrists for ultimate protection.",
+        "features": [
+          "Water-resistant and windproof light ripstop shell",
+          "Scuba neckline hood with toggle bungees",
+          "Zippered utility welt waist pockets",
+          "Breathable mesh interior body lining"
+        ],
+        "fabricAndCare": "100% Ripstop Polyester. Machine wash cold on gentle cycle. Hang dry.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 32,
+      "name": "Printed Kids' T-Shirt",
+      "price": 12.99,
+      "gender": "kids",
+      "category": "tshirts",
+      "newArrival": true,
+      "onTrain": true,
+      "sizes": ["4Y", "5Y", "6Y", "8Y"],
+      "inStock": true,
+      "variants": [
+        {
+          "color": "blue-dino",
+          "hex": "#2C6E9C",
+          "image": "https://i5.walmartimages.com/seo/Aihuaihua-Kids-Neon-Tie-Dye-Shirt-Boys-Girls-3D-Graphic-Print-Tie-Dye-T-Shirt-Hippes-Tshirt-Dinosaur-Senior-Children-Summer-Tee-Back-School-Clothes_ec084f55-a41a-4344-a15d-e985b2df61c5.9640238838c695ae41ca54caf37857b7.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+        },
+        {
+          "color": "pink-rainbow",
+          "hex": "#FFB6C1",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsaRKPxEgiXFBvzv5zmaQgeoc53GcFluAD6L0IO_-vsn4d6t8VQ_v6o7k&s=10"
+        }
+      ],
+      "details": {
+        "longDescription": "Make playtime more fun with our playful printed t-shirt. Featuring vibrant dinosaur and rainbow graphics, this soft cotton tee is perfect for active kids who love to express themselves.",
+        "features": [
+          "Soft 100% cotton fabric",
+          "Vibrant, durable screen-print graphic",
+          "Classic crewneck design",
+          "Tag-free label for added comfort"
+        ],
+        "fabricAndCare": "100% Cotton. Machine wash cold. Tumble dry low.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 33,
+      "name": "Kids' Fleece Hoodie",
+      "price": 24.99,
+      "gender": "kids",
+      "category": "hoodies",
+      "newArrival": true,
+      "onTrain": false,
+      "sizes": ["4Y", "5Y", "6Y", "8Y", "10Y"],
+      "inStock": true,
+      "variants": [
+        {
+          "color": "grey",
+          "hex": "#A9A9A9",
+          "image": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f45ad189-cd38-49ad-93ed-54cb840d90c1/K+NSW+CLUB+FLC+HD+FZ+LS+LBR.png"
+        },
+        {
+          "color": "navy",
+          "hex": "#1B2A47",
+          "image": "https://m.media-amazon.com/images/I/615b3zvybJL._AC_UY1100_.jpg"
+        }
+      ],
+      "details": {
+        "longDescription": "Keep your little ones warm and stylish with this cozy fleece hoodie. Designed with a soft brushed interior and a roomy front pocket, it's their new favorite layer for school or weekend adventures.",
+        "features": [
+          "Soft brushed fleece interior",
+          "Adjustable hood with drawstrings",
+          "Kangaroo front pocket",
+          "Ribbed cuffs and hem"
+        ],
+        "fabricAndCare": "80% Cotton, 20% Polyester. Machine wash cold. Tumble dry low.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 34,
+      "name": "Kids' Denim Overalls",
+      "price": 29.99,
+      "gender": "kids",
+      "category": "pants",
+      "newArrival": false,
+      "onTrain": false,
+      "sizes": ["4Y", "5Y", "6Y", "8Y", "10Y"],
+      "inStock": true,
+      "variants": [
+        {
+          "color": "light-blue",
+          "hex": "#7CA3C7",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScvTIT0AwLxcwXilzOh9Z7KdGsC96XOVPufIwjxneurNAT9TLImaSUPjg&s=10"
+        },
+        {
+          "color": "dark-blue",
+          "hex": "#2C3E50",
+          "image": "https://m.media-amazon.com/images/I/71eGyiT+QwL._AC_UY350_.jpg"
+        }
+      ],
+      "details": {
+        "longDescription": "A timeless classic for any kid's wardrobe. These durable denim overalls feature adjustable straps, multiple pockets, and a relaxed fit that allows for unrestricted movement and endless play.",
+        "features": [
+          "100% cotton denim for durability",
+          "Adjustable buckle straps",
+          "Front and back pockets",
+          "Reinforced stitching at stress points"
+        ],
+        "fabricAndCare": "100% Cotton Denim. Machine wash cold. Tumble dry medium.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 35,
+      "name": "Kids' Sport Shorts",
+      "price": 14.5,
+      "gender": "kids",
+      "category": "shorts",
+      "newArrival": false,
+      "onTrain": true,
+      "sizes": ["4Y", "5Y", "6Y", "8Y", "10Y", "12Y"],
+      "inStock": true,
+      "variants": [
+        {
+          "color": "black",
+          "hex": "#1E1E1E",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQekC2f-RiTaXTy7z_-MSWhpeInO9W3AZBxPAtVAxfaj3YrlrNRodSYXHI&s=10"
+        },
+        {
+          "color": "blue",
+          "hex": "#1F618D",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzFaeJ5AJTgWF9R5eTFQpt8NLqNtJI8YUoISRqLBA9XAbRbzURb9Yd8-E&s=10"
+        },
+        {
+          "color": "red",
+          "hex": "#C0392B",
+          "image": "https://image.hm.com/assets/hm/2e/01/2e01e9f12c7ce737e815880a922ea1e981bc4ecf.jpg?imwidth=2160"
+        }
+      ],
+      "details": {
+        "longDescription": "Built for active kids who love to run, jump, and play. These lightweight sport shorts feature moisture-wicking fabric and an elastic waistband for maximum comfort during all-day adventures.",
+        "features": [
+          "Lightweight, breathable fabric",
+          "Elastic waistband with drawstring",
+          "Side pockets for small treasures",
+          "Quick-drying material"
+        ],
+        "fabricAndCare": "100% Polyester. Machine wash cold. Tumble dry low.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 36,
+      "name": "Kids' Sneakers",
+      "price": 34.99,
+      "gender": "kids",
+      "category": "shoes",
+      "newArrival": true,
+      "onTrain": true,
+      "sizes": ["28", "29", "30", "31", "32", "33", "34"],
+      "inStock": true,
+      "variants": [
+        {
+          "color": "white-red",
+          "hex": "#FFFFFF",
+          "image": "https://m.media-amazon.com/images/I/71zOhWyMMxL._AC_SY900_.jpg"
+        },
+        {
+          "color": "blue-yellow",
+          "hex": "#2980B9",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9w8WvpE-bXw_rKNnt6N6zf5sHtHOpCsuil3d0Yr_1cA&s"
+        },
+        {
+          "color": "black-neon",
+          "hex": "#1A1A1A",
+          "image": "https://www.yellowshoes.com/cdn/shop/files/121882-92-NEON_2.0-02.jpg?v=1774275818&width=1000"
+        }
+      ],
+      "details": {
+        "longDescription": "Support their every step with these durable and stylish sneakers. Designed with a cushioned sole and a sturdy rubber outsole, they provide excellent traction and comfort for school, sports, and play.",
+        "features": [
+          "Breathable mesh upper",
+          "Cushioned insole for comfort",
+          "Rubber outsole for grip",
+          "Hook-and-loop strap for easy on/off"
+        ],
+        "fabricAndCare": "Textile upper, Rubber sole. Wipe clean with a damp cloth.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 37,
+      "name": "Kids' Character Backpack",
+      "price": 19.99,
+      "gender": "kids",
+      "category": "accessories",
+      "newArrival": true,
+      "onTrain": false,
+      "sizes": ["one-size"],
+      "inStock": true,
+      "variants": [
+        {
+          "color": "dino-green",
+          "hex": "#4CAF50",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB2sSRRARQHfP3APusbeeD4twk4sS0prRGxDDlewjb0isKPguebnHWvzw&s=10"
+        },
+        {
+          "color": "unicorn-pink",
+          "hex": "#FF69B4",
+          "image": "https://topcenter.com.sa/image/cache/wp/gj/easyphoto/8829/-6-500x750.webp"
+        }
+      ],
+      "details": {
+        "longDescription": "Make school days extra fun with this adorable character backpack. Featuring your child's favorite dinosaur or unicorn design, it's lightweight, durable, and has plenty of space for books and snacks.",
+        "features": [
+          "Spacious main compartment",
+          "Front zippered pocket for small items",
+          "Padded shoulder straps",
+          "Cute character design"
+        ],
+        "fabricAndCare": "100% Polyester. Wipe clean with a damp cloth.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 38,
+      "name": "Kids' Puffer Jacket",
+      "price": 39.99,
+      "gender": "kids",
+      "category": "jackets",
+      "newArrival": false,
+      "onTrain": true,
+      "sizes": ["4Y", "5Y", "6Y", "8Y", "10Y", "12Y"],
+      "inStock": true,
+      "variants": [
+        {
+          "color": "navy",
+          "hex": "#1B2A47",
+          "image": "https://cdn.platform.next/common/items/default/default/itemimages/3_4Ratio/product/lge/E89342s.jpg"
+        },
+        {
+          "color": "red",
+          "hex": "#C0392B",
+          "image": "https://pvh-brands.imgix.net/catalog/product/media/KB0KB10091_XLD_MO-ST-F1.jpg?w=&h=&crop=edges&fit=crop&auto=compress&auto=format"
+        }
+      ],
+      "details": {
+        "longDescription": "Keep your little adventurer warm and cozy all winter long. This lightweight puffer jacket is filled with insulation for maximum warmth without the bulk, and features a water-resistant shell for light rain or snow.",
+        "features": [
+          "Water-resistant outer shell",
+          "Insulated padding for warmth",
+          "Full front zipper",
+          "Two side pockets"
+        ],
+        "fabricAndCare": "Shell: 100% Nylon. Fill: 100% Polyester. Machine wash cold, gentle cycle. Tumble dry low.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 39,
+      "name": "Kids' Patterned Leggings",
+      "price": 13.99,
+      "gender": "kids",
+      "category": "pants",
+      "newArrival": false,
+      "onTrain": true,
+      "sizes": ["4Y", "5Y", "6Y", "8Y", "10Y"],
+      "inStock": true,
+      "variants": [
+        {
+          "color": "purple-stars",
+          "hex": "#8E44AD",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyB6zlSt94ajEGUj9Wd6p-gyX1_1Pps-CC-tJ07pii7fYumNUyNjCziGRa&s=10"
+        },
+        {
+          "color": "pink-hearts",
+          "hex": "#E91E63",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfgwhvL7q7I3VY8J0aIlPTbhaIu6Pzo5sXpdBM3IAJT_cGytOg0V4v1iU&s=10"
+        }
+      ],
+      "details": {
+        "longDescription": "Playful patterns meet everyday comfort. These stretchy leggings are perfect for active kids, featuring fun star and heart prints that add a pop of personality to any outfit.",
+        "features": [
+          "Soft, stretchy cotton blend",
+          "Fun pattern design",
+          "Elastic waistband for a snug fit",
+          "Durable stitching"
+        ],
+        "fabricAndCare": "95% Cotton, 5% Elastane. Machine wash cold. Tumble dry low.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 40,
+      "name": "Kids' Knit Beanie",
+      "price": 9.99,
+      "gender": "kids",
+      "category": "accessories",
+      "newArrival": true,
+      "onTrain": false,
+      "sizes": ["one-size"],
+      "inStock": true,
+      "variants": [
+        {
+          "color": "yellow",
+          "hex": "#F1C40F",
+          "image": "https://m.media-amazon.com/images/I/61q+hMMEDyL._AC_UY1000_.jpg"
+        },
+        {
+          "color": "pink",
+          "hex": "#FF6B81",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jil-4NqMYZ8C0lG_gcsIyg0mG0qRps5BYX0wHJuDwYZUkmFNNKniJLo&s=10"
+        }
+      ],
+      "details": {
+        "longDescription": "Keep little heads warm and stylish with this adorable knitted beanie. Featuring a soft, stretchy fabric and a cute pom-pom on top, it's the perfect winter accessory for any child.",
+        "features": [
+          "Soft, warm knit fabric",
+          "Cute pom-pom top",
+          "Stretchy fit for growing heads",
+          "Available in multiple colors"
+        ],
+        "fabricAndCare": "100% Acrylic. Hand wash cold. Lay flat to dry.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 41,
+      "name": "Kids' Rain Boots",
+      "price": 22.5,
+      "gender": "kids",
+      "category": "shoes",
+      "newArrival": false,
+      "onTrain": true,
+      "sizes": ["28", "29", "30", "31", "32", "33"],
+      "inStock": true,
+      "variants": [
+        {
+          "color": "yellow",
+          "hex": "#F1C40F",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuM1Pm7tSESv2SGOCb6p3gnaj2LqvNt9PhyjJP_dWQo5k4wdvY5y7E3XIt&s=10"
+        },
+        {
+          "color": "green",
+          "hex": "#27AE60",
+          "image": "https://oaki.com/cdn/shop/products/z_2643_8_0.jpg?v=1621067646&width=1445"
+        }
+      ],
+      "details": {
+        "longDescription": "Splash through puddles in style! These durable rain boots are 100% waterproof and feature a fun, bright design that kids will love. With a comfortable fit and easy pull-on handles, they're perfect for rainy days.",
+        "features": [
+          "100% waterproof material",
+          "Pull-on handles for easy wear",
+          "Durable, non-slip sole",
+          "Easy to clean"
+        ],
+        "fabricAndCare": "100% Rubber. Wipe clean with a damp cloth.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 42,
+      "name": "Kids' Graphic Sweatshirt",
+      "price": 19.99,
+      "gender": "kids",
+      "category": "sweaters",
+      "newArrival": true,
+      "onTrain": false,
+      "sizes": ["4Y", "5Y", "6Y", "8Y", "10Y", "12Y"],
+      "inStock": true,
+      "variants": [
+        {
+          "color": "space",
+          "hex": "#1B1B2F",
+          "image": "https://m.media-amazon.com/images/I/81iBK575C4L._AC_UY1100_.jpg"
+        },
+        {
+          "color": "jungle",
+          "hex": "#2E7D32",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_WxLh65gL-ZcDywI1ZaEgwSIQAKCLnin4C3YTrkgic0Qt2p_0hhejTMA&s=10"
+        }
+      ],
+      "details": {
+        "longDescription": "Bring their favorite themes to life with this cozy graphic sweatshirt. Featuring space and jungle prints, this soft pullover is perfect for cool days and imaginative play.",
+        "features": [
+          "Soft cotton-polyester blend",
+          "Vibrant, screen-printed graphic",
+          "Classic crewneck design",
+          "Ribbed cuffs and hem"
+        ],
+        "fabricAndCare": "80% Cotton, 20% Polyester. Machine wash cold. Tumble dry low.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 43,
+      "name": "Kids' Dungaree Dress",
+      "price": 26.99,
+      "gender": "kids",
+      "category": "dresses",
+      "newArrival": false,
+      "onTrain": false,
+      "sizes": ["4Y", "5Y", "6Y", "8Y"],
+      "inStock": false,
+      "variants": [
+        {
+          "color": "denim-blue",
+          "hex": "#5B7A9A",
+          "image": "https://tweenymini.com/cdn/shop/files/denim_dungaree_dress_girls_10_years.jpg?v=1762841423"
+        },
+        {
+          "color": "khaki",
+          "hex": "#BDB76B",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3CYvJPMV8hLamMXnyr7hFjA88zPWCoiuwiq4vaFATQ68PsFix6QqvANWY&s=10"
+        }
+      ],
+      "details": {
+        "longDescription": "A playful and practical dress for little adventurers. This dungaree-style dress features adjustable straps, a roomy front pocket, and a comfortable A-line cut that's perfect for all-day wear.",
+        "features": [
+          "Durable cotton fabric",
+          "Adjustable button straps",
+          "Front kangaroo pocket",
+          "A-line silhouette for easy movement"
+        ],
+        "fabricAndCare": "100% Cotton. Machine wash cold. Tumble dry medium.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 44,
+      "name": "Kids' Canvas Shoes",
+      "price": 18.99,
+      "gender": "kids",
+      "category": "shoes",
+      "newArrival": false,
+      "onTrain": true,
+      "sizes": ["29", "30", "31", "32", "33", "34"],
+      "inStock": true,
+      "variants": [
+        {
+          "color": "white",
+          "hex": "#FFFFFF",
+          "image": "https://sc04.alicdn.com/kf/H02759c94b0804f5591fefd6924fbc078O.jpg"
+        },
+        {
+          "color": "black",
+          "hex": "#1A1A1A",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVJ8i0bhnMbr1m8Wp7qcWsP05IuXgkXKyKs38BPj_K94viag1ajPtczhk&s=10"
+        }
+      ],
+      "details": {
+        "longDescription": "Classic style meets all-day comfort. These lightweight canvas shoes feature a flexible sole and a breathable upper, making them ideal for school, playdates, and weekend outings.",
+        "features": [
+          "Breathable canvas upper",
+          "Flexible rubber sole",
+          "Classic lace-up design",
+          "Easy to clean"
+        ],
+        "fabricAndCare": "Canvas upper, Rubber sole. Wipe clean with a damp cloth.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    },
+    {
+      "id": 45,
+      "name": "Kids' Bedtime Pajama Set",
+      "price": 16.99,
+      "gender": "kids",
+      "category": "pajamas",
+      "newArrival": true,
+      "onTrain": false,
+      "sizes": ["4Y", "5Y", "6Y", "8Y", "10Y"],
+      "inStock": true,
+      "variants": [
+        {
+          "color": "moon-stars",
+          "hex": "#2C3E50",
+          "image": "https://littlesleepies.com/cdn/shop/files/To-The-Moon-and-Back-Pink-Two-Piece-Pajama-Set-Longsleeves-03.jpg?v=1762182559&width=1000"
+        },
+        {
+          "color": "dino-sleep",
+          "hex": "#4A6741",
+          "image": "https://hatley.com/cdn/shop/articles/Photo_2_bed7db62-2a4a-4191-a4ff-37adca86fcbf.webp?v=1779728685&width=900"
+        }
+      ],
+      "details": {
+        "longDescription": "Make bedtime a cozy adventure with this soft pajama set. Featuring playful moon and dinosaur prints, it's made from breathable cotton that keeps kids comfortable all night long.",
+        "features": [
+          "100% soft cotton fabric",
+          "Fun print design",
+          "Elastic waistband on bottoms",
+          "Tag-free label for comfort"
+        ],
+        "fabricAndCare": "100% Cotton. Machine wash cold. Tumble dry low.",
+        "shippingReturns": "Free standard shipping on orders over $50. Returnable within 30 days of purchase."
+      }
+    }
+  ]
+}
