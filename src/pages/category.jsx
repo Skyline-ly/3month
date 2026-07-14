@@ -60,10 +60,6 @@ const CategoryPage = () => {
 
   return (
     <div>
-      <h2 style={{ padding: "40px 70px 0", color: "#060606", fontSize: "28px" }}>
-        {pageTitle}
-      </h2>
-
       <div className="product-grid">
         {filteredProducts.map((product) => (
           <ProductCard key={product.id} product={product} />

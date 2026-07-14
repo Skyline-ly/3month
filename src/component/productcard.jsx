@@ -2,7 +2,7 @@ import React from "react";
 import { Link, useLocation } from "react-router-dom";
 import { addToCart } from "../utils/cart";
 
-const ProductCard = ({ product }) => {
+const ProductCard = ({ product, compact = false }) => {
   const location = useLocation();
   const currentPath = location.pathname.replace(/\/$/, "");
   const isProductsListingPath = /^\/products(\/[^\/]+){1,2}$/.test(currentPath);
@@ -41,9 +41,11 @@ const ProductCard = ({ product }) => {
         </div>
       </Link>
 
-      <button className="btn" onClick={handleAddToCart}>
-        Add to Cart
-      </button>
+      {!compact && (
+        <button className="btn" onClick={handleAddToCart}>
+          Add to Cart
+        </button>
+      )}
     </div>
   );
 };

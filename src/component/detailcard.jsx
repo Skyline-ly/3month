@@ -113,7 +113,7 @@ const DetailCard = ({ product }) => {
         >
           Add to Cart
         </button>
-        <button>Buy</button>
+        
 
       </div>
     </div>

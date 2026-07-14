@@ -20,9 +20,6 @@ const Shot = () => {
 
   return (
     <div>
-
-      <h1>Product Search</h1>
-
       <input
         placeholder="Min price"
         value={minPrice}
