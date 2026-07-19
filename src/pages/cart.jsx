@@ -165,8 +165,7 @@ const Cart = () => {
   if (!cart.length && checkoutStep === 0) {
     return (
       <div className="cart-page">
-        <h2>Your cart is empty</h2>
-        <p>Add items to see them here.</p>
+        <h2>cart is empty</h2>
         {history.length > 0 && (
           <div className="order-history">
             <h3>Order History</h3>
