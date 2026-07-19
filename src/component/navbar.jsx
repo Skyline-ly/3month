@@ -22,7 +22,8 @@ const Navbar = () => {
     return "";
   })();
   const isProductPath = location.pathname.startsWith("/products");
-  const showGender = hovered || (isProductPath ? activeGender : "");
+  const isSpecialCollection = ["new-arrival", "on-trend"].includes(activeGender);
+  const showGender = !isSpecialCollection && (hovered || (isProductPath ? activeGender : ""));
 
   useEffect(() => {
     const syncProfile = () => setProfileName(getSavedCustomer().name || "");

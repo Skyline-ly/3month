@@ -11,24 +11,64 @@ const Home = () => {
       const data = await getApi();
       setProducts(data || []);
     };
+
     load();
   }, []);
 
-  const men = products.filter((p) => p.gender?.toLowerCase() === "men");
-  const women = products.filter((p) => p.gender?.toLowerCase() === "women");
-  const kids = products.filter((p) => p.gender?.toLowerCase() === "kids");
-  const newArrival = products.filter((p) => p.newArrival === true);
-  const onTrain = products.filter((e) => e.onTrain === true);
+  const men = products
+    .filter((p) => p.gender?.toLowerCase() === "men")
+    .slice(0, 6);
+
+  const women = products
+    .filter((p) => p.gender?.toLowerCase() === "women")
+    .slice(0, 6);
+
+  const kids = products
+    .filter((p) => p.gender?.toLowerCase() === "kids")
+    .slice(0, 6);
+
+  const newArrival = products
+    .filter((p) => p.newArrival === true)
+    .slice(0, 6);
+
+  const onTrend = products
+    .filter((p) => p.onTrain === true)
+    .slice(0, 6);
 
   return (
-    <div>
+    <>
       <Banner />
-      <ProductSection title="Men" products={men} />
-      <ProductSection title="Women" products={women} />
-      <ProductSection title="Kids" products={kids} />
-      <ProductSection title="New Arrivals" products={newArrival} />
-      <ProductSection title="On Trend" products={onTrain} />
-    </div>
+
+      <ProductSection
+        title="Men"
+        products={men}
+        link="/products/men"
+      />
+
+      <ProductSection
+        title="Women"
+        products={women}
+        link="products/women"
+      />
+
+      <ProductSection
+        title="Kids"
+        products={kids}
+        link="products/kids"
+      />
+
+      <ProductSection
+        title="New Arrivals"
+        products={newArrival}
+        link="/products/new-arrival"
+      />
+
+      <ProductSection
+        title="On Trend"
+        products={onTrend}
+        link="/products/on-trend"
+      />
+    </>
   );
 };
 

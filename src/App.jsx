@@ -6,12 +6,14 @@ import Banner from './component/banner'
 import Navbar from './component/navbar'
 
 
+
 const App = () => {
 
   return (
    <>
    <Navbar/>
    <Approute/>
+  
    </>
   )
 }

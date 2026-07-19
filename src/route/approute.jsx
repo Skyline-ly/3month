@@ -18,6 +18,8 @@ const Approute = () => {
         <Route path='/products/men' element={<Men/>}/>
         <Route path='/products/women' element={<Women/>}/>
         <Route path='/products/kid' element={<Kid/>}/>
+        <Route path='/products/new-arrival' element={<CategoryPage/>}/>
+        <Route path='/products/on-trend' element={<CategoryPage/>}/>
         <Route path='/products/:gender/:category' element={<CategoryPage/>}/>
         <Route path='/products/:gender' element={<CategoryPage/>}/>
         <Route path='/product/:id' element={<Detail/>}/>

@@ -225,7 +225,7 @@ const Cart = () => {
           </div>
           <div className="cart-total">
             <div>
-              <h3>Selected total</h3>
+              <h3>Total Price</h3>
               <p>${selectedTotal.toFixed(2)}</p>
             </div>
             <button className="btn checkout-btn" onClick={startCheckout}>
