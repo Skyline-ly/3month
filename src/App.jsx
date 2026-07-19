@@ -7,6 +7,7 @@ import Navbar from './component/navbar'
 
 
 
+
 const App = () => {
 
   return (

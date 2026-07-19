@@ -112,6 +112,8 @@ const Navbar = () => {
                   {categoryMap.men.map((c) => (
                     <NavLink key={c} to={`/products/men/${c}`} onClick={() => setMobileOpen(false)}>{c.replace("-", " ")}</NavLink>
                   ))}
+                  <NavLink to="/products/men/new-arrival" onClick={() => setMobileOpen(false)}>New Arrival</NavLink>
+                  <NavLink to="/products/men/on-trend" onClick={() => setMobileOpen(false)}>On Trend</NavLink>
                 </div>
               )}
             </div>
@@ -123,6 +125,8 @@ const Navbar = () => {
                   {categoryMap.women.map((c) => (
                     <NavLink key={c} to={`/products/women/${c}`} onClick={() => setMobileOpen(false)}>{c.replace("-", " ")}</NavLink>
                   ))}
+                  <NavLink to="/products/women/new-arrival" onClick={() => setMobileOpen(false)}>New Arrival</NavLink>
+                  <NavLink to="/products/women/on-trend" onClick={() => setMobileOpen(false)}>On Trend</NavLink>
                 </div>
               )}
             </div>
@@ -134,12 +138,12 @@ const Navbar = () => {
                   {categoryMap.kid.map((c) => (
                     <NavLink key={c} to={`/products/kid/${c}`} onClick={() => setMobileOpen(false)}>{c.replace("-", " ")}</NavLink>
                   ))}
+                  <NavLink to="/products/kid/new-arrival" onClick={() => setMobileOpen(false)}>New Arrival</NavLink>
+                  <NavLink to="/products/kid/on-trend" onClick={() => setMobileOpen(false)}>On Trend</NavLink>
                 </div>
               )}
             </div>
 
-            <NavLink to="/products/new-arrival" onClick={() => setMobileOpen(false)}>New Arrival</NavLink>
-            <NavLink to="/products/on-trend" onClick={() => setMobileOpen(false)}>On Trend</NavLink>
             <NavLink to="/cart" onClick={() => setMobileOpen(false)}>Cart</NavLink>
           </nav>
         </div>
