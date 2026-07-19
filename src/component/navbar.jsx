@@ -37,7 +37,7 @@ const Navbar = () => {
         <div className="top-row">
           <div className="left-row">
             <div className="logo" onClick={() => navigate("/")}>
-              <img class="png" src="https://static.vecteezy.com/system/resources/previews/025/742/620/non_2x/clothing-and-fashion-logo-design-hanger-concept-creative-simple-fashion-shop-business-fashion-free-vector.jpg" alt="Logo" />
+              <img className="png" src="https://static.vecteezy.com/system/resources/previews/025/742/620/non_2x/clothing-and-fashion-logo-design-hanger-concept-creative-simple-fashion-shop-business-fashion-free-vector.jpg" alt="Logo" />
             </div>
           </div>
           <div className="center-row">
@@ -81,7 +81,7 @@ const Navbar = () => {
 
           <div className="right-row">
             <div className="profile-badge">
-              {profileName ? `Hi, ${profileName}` : "Profile"}
+              {profileName ? ` ${profileName}` : "Profile"}
             </div>
             <button
               className={`hamburger ${mobileOpen ? "open" : ""}`}
