@@ -10,7 +10,7 @@ const DetailCard = ({ product }) => {
   );
 
 
- 
+
   useEffect(() => {
     setSelectedSize(null);
     setSelectedVariant(product?.variants?.[0] || null);
@@ -61,9 +61,8 @@ const DetailCard = ({ product }) => {
 
               <button
                 key={size}
-                className={`option ${
-                  selectedSize === size ? "active" : ""
-                }`}
+                className={`option ${selectedSize === size ? "active" : ""
+                  }`}
                 onClick={() => setSelectedSize(size)}
               >
 
@@ -94,11 +93,10 @@ const DetailCard = ({ product }) => {
 
                 key={variant.color}
 
-                className={`color-circle ${
-                  selectedVariant?.color === variant.color
+                className={`color-circle ${selectedVariant?.color === variant.color
                     ? "active"
                     : ""
-                }`}
+                  }`}
 
                 style={{
                   backgroundColor: variant.hex
