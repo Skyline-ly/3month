@@ -86,7 +86,7 @@ const Navbar = () => {
 
               <li className="cart-nav-item">
                 <NavLink to="/cart" className="cart-link">
-                  Cart
+                  <img src="https://images-cdn.ubuy.co.in/694f9d68e6add999ed0ade86-utility-rolling-tool-cart-40-x-17-inch.jpg" alt="" />
                   {cartCount > 0 && <span className="cart-count-badge">{cartCount}</span>}
                 </NavLink>
               </li>

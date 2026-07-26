@@ -89,6 +89,9 @@ a { color: inherit; text-decoration: none; }
   gap: 8px;
   position: relative;
 }
+.cart-link img{
+  width: 20px;
+}
 .cart-count-badge {
   display: inline-flex;
   align-items: center;
