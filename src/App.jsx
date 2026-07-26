@@ -3,6 +3,7 @@ import {Routes,Route} from 'react-router-dom'
 import Approute from './route/approute'
 import Banner from './component/banner'
 import Navbar from './component/navbar'
+import Footer from './component/footer'
 
 const App = () => {
 
@@ -10,6 +11,7 @@ const App = () => {
    <>
    <Navbar/>
    <Approute/>
+   <Footer/>
    </>
   )
 }
