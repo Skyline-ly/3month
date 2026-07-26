@@ -40,6 +40,7 @@ const ProductCard = ({ product, compact = false }) => {
           <h3>{product.name}</h3>
 
           <p>${product.price}</p>
+          <h3>{product.sizes?.join(", ") || "N/A"}</h3>
         </div>
 
       </Link>
