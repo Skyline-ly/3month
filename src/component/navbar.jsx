@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { NavLink, useNavigate, useLocation } from "react-router-dom";
-import { getSavedCustomer } from "../utils/cart";
+import { getCartCount, getSavedCustomer } from "../utils/cart";
 
 const categoryMap = {
   women: ["dresses",  "shoes",  ],
@@ -15,6 +15,7 @@ const Navbar = () => {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [mobileGender, setMobileGender] = useState("");
   const [profileName, setProfileName] = useState("");
+  const [cartCount, setCartCount] = useState(0);
 
   const activeGender = (() => {
     const parts = location.pathname.split("/").filter(Boolean);
@@ -27,9 +28,18 @@ const Navbar = () => {
 
   useEffect(() => {
     const syncProfile = () => setProfileName(getSavedCustomer().name || "");
+    const syncCart = () => setCartCount(getCartCount());
+
     syncProfile();
+    syncCart();
+
     window.addEventListener("customerUpdated", syncProfile);
-    return () => window.removeEventListener("customerUpdated", syncProfile);
+    window.addEventListener("cartUpdated", syncCart);
+
+    return () => {
+      window.removeEventListener("customerUpdated", syncProfile);
+      window.removeEventListener("cartUpdated", syncCart);
+    };
   }, []);
 
   return (
@@ -74,8 +84,11 @@ const Navbar = () => {
 
              
 
-              <li>
-                <NavLink to="/cart">Cart</NavLink>
+              <li className="cart-nav-item">
+                <NavLink to="/cart" className="cart-link">
+                  Cart
+                  {cartCount > 0 && <span className="cart-count-badge">{cartCount}</span>}
+                </NavLink>
               </li>
             </ul>
           </div>
@@ -99,7 +112,7 @@ const Navbar = () => {
           </div>
         </div>
       </nav>
-      {/* Mobile menu overlay */}
+  
       <div className={`mobile-menu ${mobileOpen ? "open" : ""}`} role="dialog" aria-modal={mobileOpen}>
         <div className="mobile-inner">
           <button className="mobile-close" onClick={() => setMobileOpen(false)} aria-label="Close menu">×</button>
@@ -144,7 +157,10 @@ const Navbar = () => {
               )}
             </div>
 
-            <NavLink to="/cart" onClick={() => setMobileOpen(false)}>Cart</NavLink>
+            <NavLink to="/cart" onClick={() => setMobileOpen(false)} className="mobile-cart-link">
+              <span>Cart</span>
+              {cartCount > 0 && <span className="cart-count-badge mobile-cart-badge">{cartCount}</span>}
+            </NavLink>
           </nav>
         </div>
       </div>
